@@ -9,6 +9,6 @@ The following is what is demonstrated in my demo:
 ● Switch statments
 ● Exceptions
 ● Classes
-● Collections structures: 
+● Collection structures: 
 ○ ArrayList
 ● Loops
